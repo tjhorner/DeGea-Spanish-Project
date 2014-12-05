@@ -20,11 +20,12 @@ body {
   color: #000; }
 
 .title-container {
-  text-align: center; }
+  text-align: center;
+  margin-bottom: 75px; }
   .title-container #title {
     font-size: 72px;
     font-weight: 400;
-    margin: 0;
+    margin: 3px 0;
     padding: 0; }
   .title-container #description {
     font-size: 36px;
