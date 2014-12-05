@@ -18,3 +18,16 @@ body {
   font-weight: 400;
   background-color: #F8F8F8;
   color: #000; }
+
+.title-container {
+  text-align: center; }
+  .title-container #title {
+    font-size: 72px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0; }
+  .title-container #description {
+    font-size: 36px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0; }
